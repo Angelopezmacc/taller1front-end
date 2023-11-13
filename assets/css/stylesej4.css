@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a72c2c;
+}
+
+.container {
+    width: 600px;
+    margin: 20px auto;
+    padding: 40px;
+    border: 1px solid #000000;
+    text-align: center;
+    background-color: rgb(255, 235, 205); 
+}
+
+select {
+    margin: 10px;
+    padding: 5px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    display: block;
+    margin: 10px;
+    font-weight: bold;
+}
